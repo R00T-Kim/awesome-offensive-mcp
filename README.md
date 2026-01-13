@@ -24,7 +24,7 @@
 
     1.  **30+ GitHub Stars** (Community verified)
 
-    2.  **Personally Verified** (I've used it and it works)
+    2.  **Personally Verified**
 
     3.  **Official Implementation** (Maintained by the vendor)
 
