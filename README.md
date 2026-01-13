@@ -140,6 +140,7 @@ For offensive security, this means your AI agent can now **run Nmap scans, analy
 
 - [**Greptile MCP**](https://github.com/greptileai/greptile-vscode) – Semantic code search to find vulnerable logic in large codebases.
 
+- [**Slither MCP**](https://github.com/trailofbits/slither-mcp) – **(Web3)** Static analysis for Solidity smart contracts using Trail of Bits' Slither.
 
 
 ---
