@@ -96,7 +96,7 @@ For offensive security, this means your AI agent can now **run Nmap scans, analy
 
 - [**ZoomEye MCP**](https://github.com/zoomeye-ai/mcp_zoomeye) – Retrieve cyberspace assets and dorks via ZoomEye API.
 
-- [**GitHub MCP Server**](https://github.com/modelcontextprotocol/servers/tree/main/src/github) – Full GitHub API access. Great for **Secret Scanning** and repository analysis.
+- [**GitHub MCP Server**](https://github.com/github/github-mcp-server) – Full GitHub API access. Great for **Secret Scanning** and repository analysis.
 
 - [**FastDomainCheck MCP**](https://github.com/bingal/FastDomainCheck-MCP-Server) – High-speed bulk domain availability checking.
 
@@ -136,7 +136,7 @@ For offensive security, this means your AI agent can now **run Nmap scans, analy
 
 - [**Jadx MCP Plugin**](https://github.com/mobilehackinglab/jadx-mcp-plugin) – Exposes Jadx decompiler features for **Android Pentesting**.
 
-- [**Sentry MCP**](https://github.com/modelcontextprotocol/servers/tree/main/src/sentry) – Analyze error logs and stack traces to identify crash points or logic bugs.
+- [**Sentry MCP**](https://github.com/getsentry/sentry-mcp) – Analyze error logs and stack traces to identify crash points or logic bugs.
 
 - [**Greptile MCP**](https://github.com/greptileai/greptile-vscode) – Semantic code search to find vulnerable logic in large codebases.
 
@@ -160,15 +160,15 @@ For offensive security, this means your AI agent can now **run Nmap scans, analy
 
 - [**Puppeteer MCP**](https://github.com/merajmehrabi/puppeteer-mcp-server) – Headless Chrome automation for XSS verification and admin bot simulation.
 
-- [**PostgreSQL MCP**](https://github.com/modelcontextprotocol/servers/tree/main/src/postgres) – Connect to Postgres DBs to inspect schemas and test SQL queries.
+- [**PostgreSQL MCP**](https://github.com/crystaldba/postgres-mcp) – Connect to Postgres DBs to inspect schemas and test SQL queries.
 
-- [**MySQL MCP**](https://github.com/designcombo/mcp-server-mysql) – MySQL/MariaDB interaction for database assessment.
+- [**MySQL MCP**](https://github.com/benborla/mcp-server-mysql) – MySQL/MariaDB interaction for database assessment.
 
 - [**Redis MCP**](https://github.com/redis/mcp-redis) – **(Official)** Interact with Redis databases. Common target for RCE and data exfiltration.
 
 - [**MongoDB MCP**](https://github.com/mongodb-js/mongodb-mcp-server) – **(Official)** Inspect MongoDB collections and test for NoSQL injection.
 
-- [**SQLite MCP**](https://github.com/modelcontextprotocol/servers/tree/main/src/sqlite) – Analyze local SQLite database files (Essential for **Mobile/Browser Forensics**).
+- [**SQLite MCP**](https://github.com/jparkerweb/mcp-sqlite) – Analyze local SQLite database files (Essential for **Mobile/Browser Forensics**).
 
 - [**AKTO MCP Server**](https://www.akto.io/mcp) – Automate API discovery and security testing (Broken Object Level Authorization, etc.).
 
@@ -246,9 +246,9 @@ For offensive security, this means your AI agent can now **run Nmap scans, analy
 
 - [**Kubernetes MCP**](https://github.com/Flux159/mcp-server-kubernetes) – Enumerate and manage K8s clusters (Pod security, RBAC checks).
 
-- [**AWS MCP**](https://github.com/michaillat/mcp-aws) – Inspect AWS resources (S3 buckets, IAM roles, EC2) for misconfigurations.
+- [**AWS MCP**](https://awslabs.github.io/mcp/) – Inspect AWS resources (S3 buckets, IAM roles, EC2) for misconfigurations.
 
-- [**Docker MCP**](https://github.com/modelcontextprotocol/servers/tree/main/src/docker) – Manage Docker containers and images. Useful for setting up attack labs or analyzing container images.
+- [**Docker MCP**](https://hub.docker.com/u/mcp) – Manage Docker containers and images. Useful for setting up attack labs or analyzing container images.
 
 
 
@@ -282,13 +282,13 @@ For offensive security, this means your AI agent can now **run Nmap scans, analy
 
 ### 🤝 Ops & Communication
 
-- [**Discord MCP**](https://github.com/BurtTheCoder/mcp-discord) – Control Discord (can be used for C2 simulation or notifications).
+- [**Discord MCP**](https://github.com/hanweg/mcp-discord) – Control Discord (can be used for C2 simulation or notifications).
 
 - [**Telegram MCP**](https://github.com/qpd-v/mcp-communicator-telegram) – Telegram integration.
 
 - [**WhatsApp MCP**](https://github.com/lharries/whatsapp-mcp) – WhatsApp Web API integration.
 
-- [**Notion MCP**](https://github.com/sgl-project/mcp-server-notion) – Automated pentest reporting to Notion.
+- [**Notion MCP**](https://developers.notion.com/docs/mcp) – Automated pentest reporting to Notion.
 
 - [**Obsidian MCP**](https://github.com/calclavia/mcp-obsidian) – Manage local knowledge base (Obsidian) for engagement notes.
 
