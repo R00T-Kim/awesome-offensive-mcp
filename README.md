@@ -142,6 +142,26 @@ For offensive security, this means your AI agent can now **run Nmap scans, analy
 
 - [**Slither MCP**](https://github.com/trailofbits/slither-mcp) – **(Web3)** Static analysis for Solidity smart contracts using Trail of Bits' Slither.
 
+- [**Aderyn**](https://github.com/Cyfrin/aderyn) – Fast static analysis for Solidity smart contracts.
+
+- [**mcp-gdb**](https://github.com/signal-slot/mcp-gdb) – GDB server integration for debugging applications.
+
+- [**lldb-mcp**](https://github.com/stass/lldb-mcp) – LLDB debugger integration for controlling debug sessions via MCP.
+
+- [**radare2-mcp**](https://github.com/radareorg/radare2-mcp) – Deep integration with Radare2 (r2) for reverse engineering.
+
+- [**codeql-mcp**](https://github.com/JordyZomer/codeql-mcp) – Run CodeQL queries using natural language for variant analysis.
+
+- [**pwno-mcp**](https://github.com/pwno-io/pwno-mcp) – Advanced GDB/pwndbg integration tailored for exploitation and LLM usage.
+
+- [**frida-mcp**](https://github.com/dnakov/frida-mcp) – Dynamic instrumentation and hooking using Frida.
+
+- [**embedded-debugger-mcp**](https://github.com/Adancurusul/embedded-debugger-mcp) – Debug embedded systems (ARM, RISC-V) via probe-rs.
+
+- [**mcp-android-server-python**](https://github.com/nim444/mcp-android-server-python) – Android automation and UI inspection via uiautomator2.
+
+- [**mobile-mcp**](https://github.com/mobile-next/mobile-mcp) – Cross-platform mobile automation (iOS/Android) for emulators and real devices.
+
 
 ---
 
@@ -179,6 +199,12 @@ For offensive security, this means your AI agent can now **run Nmap scans, analy
 
 - [**Fetch MCP**](https://github.com/modelcontextprotocol/servers/tree/main/src/fetch) – Simple HTTP client for manual fuzzing or crafting raw requests.
 
+- [**mcp-server-fuzzer**](https://github.com/Agent-Hellboy/mcp-server-fuzzer) – A generic fuzzer for testing and stressing other MCP servers.
+
+- [**mcpcap**](https://github.com/mcpcap/mcpcap) – Network traffic analysis (PCAP) and packet inspection.
+
+- [**WireMCP**](https://github.com/0xKoda/WireMCP) – Real-time network analysis using Wireshark (tshark).
+
 
 
 ---
@@ -196,6 +222,10 @@ For offensive security, this means your AI agent can now **run Nmap scans, analy
 
 
 - [**Command Line MCP**](https://github.com/g0t4/mcp-server-commands) – **⚠️ Dangerous.** Allows AI to execute arbitrary shell commands. Powerful for specialized exploitation chains but requires strict sandboxing.
+
+- [**MetasploitMCP**](https://github.com/GH05TCREW/MetasploitMCP) – Control the Metasploit Framework for vulnerability scanning and exploitation.
+
+- [**HexStrike AI**](https://github.com/0x4m4/hexstrike-ai) – Automated offensive security suite running 150+ tools.
 
 
 
@@ -268,6 +298,8 @@ For offensive security, this means your AI agent can now **run Nmap scans, analy
 - [**Git MCP**](https://github.com/modelcontextprotocol/servers/tree/main/src/git) – Analyze git history and diffs to find sensitive data or past vulnerabilities.
 
 - [**MCP Timeserver**](https://github.com/SecretiveShell/MCP-timeserver) – Provides precise time context for correlation rules.
+
+- [**pty-mcp-server**](https://github.com/phoityne/pty-mcp-server) – Spawn and interact with pseudo-terminals (PTY) for shell access.
 
 
 
