@@ -58,25 +58,27 @@ For offensive security, this means your AI agent can now **run Nmap scans, analy
 
 
 
-- [🕵️ Reconnaissance & OSINT](#-reconnaissance--osint)
+- [🕵️ Reconnaissance & OSINT](#recon)
 
-- [🔬 Vulnerability Research & Analysis](#-vulnerability-research--analysis)
+- [🔬 Vulnerability Research & Analysis](#vuln)
 
-- [🌐 Web, Network & Protocol](#-web-network--protocol)
+- [🌐 Web, Network & Protocol](#web)
 
-- [⚔️ Weaponization & Exploitation](#-weaponization--exploitation)
+- [⚔️ Weaponization & Exploitation](#weapon)
 
-- [🔓 Cryptography & Cracking](#-cryptography--cracking)
+- [🔓 Cryptography & Cracking](#crypto)
 
-- [🏴 Post-Exploitation & Active Directory](#-post-exploitation--active-directory)
+- [🏴 Post-Exploitation & Active Directory](#postexp)
 
-- [🏗️ Infrastructure, Utils & Orchestration](#-infrastructure-utils--orchestration)
+- [🏗️ Infrastructure, Utils & Orchestration](#infra)
 
 
 
 ---
 
 
+
+<div id="recon"></div>
 
 ## 🕵️ Reconnaissance & OSINT
 
@@ -112,12 +114,7 @@ For offensive security, this means your AI agent can now **run Nmap scans, analy
 
 - [**ANNA's MCP**](https://github.com/iosifache/annas-mcp) – Search and download documents/papers from Anna's Archive.
 
-
-
-
-
 - [**MalwareBazaar MCP**](https://github.com/mytechnotalent/MalwareBazaar_MCP) – Interface with Malware Bazaar for real-time threat intel and sample metadata.
-
 
 - [**MITRE ATT&CK MCP**](https://github.com/stoyky/mitre-attack-mcp) – Query and interact with the MITRE ATT&CK framework data.
 
@@ -126,6 +123,8 @@ For offensive security, this means your AI agent can now **run Nmap scans, analy
 ---
 
 
+
+<div id="vuln"></div>
 
 ## 🔬 Vulnerability Research & Analysis
 
@@ -171,13 +170,9 @@ For offensive security, this means your AI agent can now **run Nmap scans, analy
 
 - [**mobile-mcp**](https://github.com/mobile-next/mobile-mcp) – Cross-platform mobile automation (iOS/Android) for emulators and real devices.
 
-
-
 - [**MobSF MCP**](https://github.com/pullkitsan/mobsf-mcp-server) – Scan and analyze APK/IPA files using Mobile Security Framework (MobSF).
 
-
 - [**Volatility MCP**](https://github.com/bornpresident/Volatility-MCP-Server) – Integrate Volatility 3 for automated memory forensics.
-
 
 - [**MCP Security Tools**](https://github.com/Ta0ing/MCP-SecurityTools) – Collection including Uncover (FOFA/Shodan), Enscan, and more.
 
@@ -185,6 +180,8 @@ For offensive security, this means your AI agent can now **run Nmap scans, analy
 ---
 
 
+
+<div id="web"></div>
 
 ## 🌐 Web, Network & Protocol
 
@@ -226,11 +223,11 @@ For offensive security, this means your AI agent can now **run Nmap scans, analy
 
 
 
-
-
 ---
 
 
+
+<div id="weapon"></div>
 
 ## ⚔️ Weaponization & Exploitation
 
@@ -250,7 +247,9 @@ For offensive security, this means your AI agent can now **run Nmap scans, analy
 
 - [**MasterMCP**](https://github.com/slowmist/MasterMCP) – **(Research)** Demonstration toolkit allowing cross-MCP attacks (use with caution).
 
+- [**Damn Vulnerable MCP Server**](https://github.com/harishsg993010/damn-vulnerable-MCP-server) – **(Educational)** Deliberately vulnerable MCP server for CTF and security training.
 
+- [**MCP Injection Experiments**](https://github.com/invariantlabs-ai/mcp-injection-experiments) – **(Research)** Code snippets and proofs-of-concept for MCP tool poisoning attacks.
 
 - [**Offensive MCP AI**](https://github.com/CyberSecurityUP/Offensive-MCP-AI) – Suite of offensive security tools for AI agents.
 
@@ -259,6 +258,8 @@ For offensive security, this means your AI agent can now **run Nmap scans, analy
 ---
 
 
+
+<div id="crypto"></div>
 
 ## 🔓 Cryptography & Cracking
 
@@ -270,10 +271,11 @@ For offensive security, this means your AI agent can now **run Nmap scans, analy
 
 
 
-
 ---
 
 
+
+<div id="postexp"></div>
 
 ## 🏴 Post-Exploitation & Active Directory
 
@@ -290,6 +292,8 @@ For offensive security, this means your AI agent can now **run Nmap scans, analy
 ---
 
 
+
+<div id="infra"></div>
 
 ## 🏗️ Infrastructure, Utils & Orchestration
 
@@ -308,8 +312,6 @@ For offensive security, this means your AI agent can now **run Nmap scans, analy
 - [**AWS MCP**](https://awslabs.github.io/mcp/) – Inspect AWS resources (S3 buckets, IAM roles, EC2) for misconfigurations.
 
 - [**Docker MCP**](https://hub.docker.com/u/mcp) – Manage Docker containers and images. Useful for setting up attack labs or analyzing container images.
-
-
 
 - [**Auth0 MCP**](https://github.com/auth0/auth0-mcp-server) – **(Official)** Management and interaction with Auth0 identity platform.
 
@@ -344,8 +346,15 @@ For offensive security, this means your AI agent can now **run Nmap scans, analy
 
 - [**Check Point Quantum MCP**](https://github.com/CheckPointSW/mcp-servers) – Firewall management and policy review.
 
+- [**Heimdall**](https://github.com/shinzo-labs/heimdall) – Access control and governance layer for MCP tools.
 
+- [**ToolHive**](https://github.com/stacklok/toolhive) – Management and registry for secure MCP server deployment.
 
+- [**MCP Scan**](https://github.com/invariantlabs-ai/mcp-scan) – Scan MCP connections for vulnerabilities and log interactions.
+
+- [**MCP Shield**](https://github.com/riseandignite/mcp-shield) – Security scanner specifically designed for MCP servers.
+
+- [**MCP Guardian**](https://github.com/eqtylab/mcp-guardian) – Proxy and secure your MCP servers with access control.
 
 
 
