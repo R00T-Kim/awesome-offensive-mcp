@@ -1,4 +1,4 @@
-# Awesome Offensive MCP [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Offensive MCP Servers [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 
 
