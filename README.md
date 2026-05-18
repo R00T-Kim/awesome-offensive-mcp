@@ -314,6 +314,7 @@ For offensive security, this means your AI agent can now **run Nmap scans, analy
 - [**Docker MCP**](https://hub.docker.com/u/mcp) – Manage Docker containers and images. Useful for setting up attack labs or analyzing container images.
 
 - [**Auth0 MCP**](https://github.com/auth0/auth0-mcp-server) – **(Official)** Management and interaction with Auth0 identity platform.
+- [APort Agent Guardrails](https://aport.io) - Pre-action authorization guardrails for AI agents and MCP/tool-use workflows.
 
 
 
