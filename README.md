@@ -86,6 +86,8 @@ For offensive security, this means your AI agent can now **run Nmap scans, analy
 
 
 
+- [**Nmap MCP**](https://github.com/vorotaai/nmap-mcp) – Run Nmap scans (host discovery, port scanning, OS/service detection, NSE scripts) via natural language.
+
 - [**Shodan MCP**](https://github.com/BurtTheCoder/mcp-shodan) – AI access to Shodan search, host information, and CVEs.
 
 - [**VirusTotal MCP**](https://github.com/BurtTheCoder/mcp-virustotal) – Query VT scans, analyze URLs, IP addresses, and file hashes.
@@ -152,6 +154,8 @@ For offensive security, this means your AI agent can now **run Nmap scans, analy
 
 - [**Greptile MCP**](https://github.com/greptileai/greptile-vscode) – Semantic code search to find vulnerable logic in large codebases.
 
+- [**Semgrep MCP**](https://github.com/semgrep/semgrep) – **(Official)** Built directly into the Semgrep binary (`semgrep mcp`). Run static analysis scans, analyze code vulnerabilities, and draft custom rules.
+
 - [**Slither MCP**](https://github.com/trailofbits/slither-mcp) – **(Web3)** Static analysis for Solidity smart contracts using Trail of Bits' Slither.
 
 - [**Aderyn**](https://github.com/Cyfrin/aderyn) – Fast static analysis for Solidity smart contracts.
@@ -196,6 +200,8 @@ For offensive security, this means your AI agent can now **run Nmap scans, analy
 - [**Burp Suite MCP**](https://github.com/PortSwigger/mcp-server) – The industry standard for web security testing, now controllable via AI.
 
 - [**Nuclei MCP**](https://github.com/addcontent/nuclei-mcp) – Orchestrate fast vulnerability scanning with Nuclei templates.
+
+- [**Nikto MCP**](https://github.com/weldpua2008/nikto-mcp) – Command-line wrapper to run Nikto web server scans for vulnerability identification.
 
 - [**Chrome DevTools MCP**](https://github.com/ChromeDevTools/chrome-devtools-mcp) – **(Official)** Control and inspect Google Chrome via Chrome DevTools Protocol. Perform DOM inspection, script evaluation, and network analysis.
 
@@ -312,6 +318,8 @@ For offensive security, this means your AI agent can now **run Nmap scans, analy
 ### ☁️ Cloud & Container Security
 
 - [**Terraform MCP**](https://github.com/hashicorp/terraform-mcp-server) – **(Official)** Analyze Terraform IaC for cloud misconfigurations or hardcoded secrets.
+
+- [**Trivy MCP**](https://github.com/aquasecurity/trivy-mcp) – **(Official)** Aqua Security's official Trivy plugin. Perform container, filesystem, and repository vulnerability scans using natural language.
 
 - [**Snowflake MCP**](https://github.com/Snowflake-Labs/mcp) – **(Official)** Interact with Snowflake Data Cloud (Data exfiltration simulation / Access Audit).
 
