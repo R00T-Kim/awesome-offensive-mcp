@@ -251,6 +251,8 @@ For offensive security, this means your AI agent can now **run Nmap scans, analy
 
 - [**HexStrike AI**](https://github.com/0x4m4/hexstrike-ai) – Automated offensive security suite running 150+ tools.
 
+- [**MCP Security Hub**](https://github.com/FuzzingLabs/mcp-security-hub) – A production-ready, Dockerized collection of 36+ MCP servers bridging 185+ offensive security tools (Nmap, Ghidra, Nuclei, SQLMap, Hashcat, etc.) into AI agents.
+
 - [**MasterMCP**](https://github.com/slowmist/MasterMCP) – **(Research)** Demonstration toolkit allowing cross-MCP attacks (use with caution).
 
 - [**Damn Vulnerable MCP Server**](https://github.com/harishsg993010/damn-vulnerable-MCP-server) – **(Educational)** Deliberately vulnerable MCP server for CTF and security training.
