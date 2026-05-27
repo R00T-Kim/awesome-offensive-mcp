@@ -136,11 +136,15 @@ For offensive security, this means your AI agent can now **run Nmap scans, analy
 
 - [**Ghidra MCP Alternative**](https://github.com/Bamimore-Tomi/ghidra_mcp) – Another variant of Ghidra MCP focusing on binary analysis capabilities.
 
+- [**pyghidra-mcp**](https://github.com/clearbluejar/pyghidra-mcp) – Headless-first and GUI-capable Ghidra MCP server. Supports project-wide analysis and cross-binary tracing using Python.
+
 - [**IDA Pro MCP**](https://github.com/mrexodia/ida-pro-mcp) – Control IDA Pro using LLMs for decompilation and analysis.
 
 - [**Binary Ninja MCP**](https://github.com/MCPPhalanx/binaryninja-mcp) – Plugin to integrate AI workflows directly into Binary Ninja.
 
 - [**WinDBG EXT MCP**](https://github.com/NadavLor/windbg-ext-mcp) – AI-assisted kernel debugging with WinDbg. Real-time analysis of crash dumps.
+
+- [**mcp-windbg**](https://github.com/svnscha/mcp-windbg) – AI-powered interactive debugger integration for WinDbg/CDB to analyze crash dumps and control execution.
 
 - [**Jadx MCP Plugin**](https://github.com/mobilehackinglab/jadx-mcp-plugin) – Exposes Jadx decompiler features for **Android Pentesting**.
 
@@ -192,6 +196,8 @@ For offensive security, this means your AI agent can now **run Nmap scans, analy
 - [**Burp Suite MCP**](https://github.com/PortSwigger/mcp-server) – The industry standard for web security testing, now controllable via AI.
 
 - [**Nuclei MCP**](https://github.com/addcontent/nuclei-mcp) – Orchestrate fast vulnerability scanning with Nuclei templates.
+
+- [**Chrome DevTools MCP**](https://github.com/ChromeDevTools/chrome-devtools-mcp) – **(Official)** Control and inspect Google Chrome via Chrome DevTools Protocol. Perform DOM inspection, script evaluation, and network analysis.
 
 - [**Playwright MCP**](https://github.com/microsoft/playwright-mcp) – Browser automation for dynamic testing, scraping, or bypassing client-side controls.
 
