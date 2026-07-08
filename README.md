@@ -412,6 +412,7 @@ For offensive security, this means your AI agent can now **run Nmap scans, analy
 
 - [**AgentFence**](https://github.com/agentfence/agentfence) – Testing AI agent vulnerabilities.
 
+- [**Darkmoon**](https://github.com/ASCIT31/Dark-Moon) – Autonomous AI pentest platform and MCP host orchestrating 80+ offensive tools via per-tech offensive sub-agents, with Active Directory and Kubernetes support.
 - [**Pentagi**](https://github.com/vxcontrol/pentagi) – Autonomous AI penetration tester.
 
 - [**Agentic Security Scanner**](https://github.com/msoedov/agentic_security)
