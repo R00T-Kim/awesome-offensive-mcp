@@ -142,6 +142,8 @@ For offensive security, this means your AI agent can now **run Nmap scans, analy
 
 - [**IDA Pro MCP**](https://github.com/mrexodia/ida-pro-mcp) – Control IDA Pro using LLMs for decompilation and analysis.
 
+- [**REA (Reverse Engineer Anything)**](https://github.com/morluto/rea) – Local CLI/MCP server for evidence-backed analysis of shipped native, managed, and JavaScript/Electron applications; deep native analysis requires separately installed Hopper, Ghidra, or IDA.
+
 - [**Binary Ninja MCP**](https://github.com/MCPPhalanx/binaryninja-mcp) – Plugin to integrate AI workflows directly into Binary Ninja.
 
 - [**WinDBG EXT MCP**](https://github.com/NadavLor/windbg-ext-mcp) – AI-assisted kernel debugging with WinDbg. Real-time analysis of crash dumps.
