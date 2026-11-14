@@ -388,6 +388,8 @@ For offensive security, this means your AI agent can now **run Nmap scans, analy
 
 - [**GitLab MCP**](https://github.com/mcp-parliament/gitlab-mcp-server) – Manage repositories and issues.
 
+- [**Scrapewise**](https://github.com/BEBOTECH-OU/scrapewise-mcp) – Remote MCP server that scrapes, cleans and matches product and price data from any website.
+
 
 
 ### 🤖 Agentic AI Frameworks
